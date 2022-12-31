@@ -1,0 +1,7 @@
+Kindle_precio_Bot
+
+Use this token to access the HTTP API:
+1814663478:AAFqocTZ0ySjcZgYgeQ9xum0PQ0k1zC6IBw
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
